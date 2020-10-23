@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Workspace" id="{86025ee3-ce7e-4a89-aea8-f5a5c365b4d1}">
+		<property name="builtBanksOutputDirectory">
+			<value>E:/Unreal Projects/WaterChild/WaterChild/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{36cea7ff-b437-47de-a229-bb733d5b0442}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{b2c9f49b-0ac6-4a63-bc88-e06f2b5e97e3}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{c91be2e6-f664-4809-aaea-ab3817ddeabc}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{e0fd498c-d2d6-44ca-9741-2643d163ce67}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{e33694f6-d51b-4ec2-b674-f222a4276756}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{527da1cc-55d8-44f1-a201-d78902fc530e}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{58a98c1f-3d93-4fd8-b10b-62fac294abc5}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{b211fd7e-c30a-4922-bd4f-5b9569e41b88}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{81c5109c-e25a-4ffe-8a9f-018a704031f9}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{031ed781-e466-4a05-b95f-8906ac1cd5ee}</destination>
+		</relationship>
+	</object>
+</objects>
