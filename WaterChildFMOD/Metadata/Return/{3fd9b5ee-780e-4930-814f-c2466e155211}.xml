@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="MixerReturn" id="{3fd9b5ee-780e-4930-814f-c2466e155211}">
-		<property name="color">
-			<value>Cyan</value>
-		</property>
 		<property name="name">
-			<value>TrackAReturn</value>
+			<value>TrackA_Return</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{ebc48c96-feef-4c62-8408-ccf9c078fc9c}</destination>
@@ -14,7 +11,7 @@
 			<destination>{1dedeebd-0538-4ec2-aa96-5eadfe844a2f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{797f3d1b-fcd0-44fd-a1dd-4c80f2e32f7d}</destination>
+			<destination>{bef47b38-0e40-447e-a7b3-6f8d751ffb94}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{ebc48c96-feef-4c62-8408-ccf9c078fc9c}">

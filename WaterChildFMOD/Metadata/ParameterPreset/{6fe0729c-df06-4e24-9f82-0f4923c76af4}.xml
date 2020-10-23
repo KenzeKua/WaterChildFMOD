@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{6fe0729c-df06-4e24-9f82-0f4923c76af4}">
+		<property name="name">
+			<value>MainTrack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7c0261b0-d371-4556-922e-77156d90cac3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{304154ca-7961-4157-afcd-7d0c4440c46b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{304154ca-7961-4157-afcd-7d0c4440c46b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
