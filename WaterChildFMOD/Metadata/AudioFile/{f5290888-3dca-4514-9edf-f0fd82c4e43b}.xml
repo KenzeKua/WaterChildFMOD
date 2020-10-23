@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{71dc7293-1e0d-4bd9-a655-803d0b5da00c}">
+	<object class="AudioFile" id="{f5290888-3dca-4514-9edf-f0fd82c4e43b}">
 		<property name="assetPath">
 			<value>Main Track.mp3</value>
 		</property>
