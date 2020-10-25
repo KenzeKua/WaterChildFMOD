@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPresetFolder" id="{d825bc6a-9410-4062-b460-a17a5a9bac7a}">
+		<property name="name">
+			<value>Reviving</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8fdbeb97-f8a1-4ab1-b0fd-6194d0d24d1d}</destination>
+		</relationship>
+	</object>
+</objects>
