@@ -33,8 +33,8 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{eaa5008e-27b9-4d1a-b686-42480dde9b43}</destination>
-			<destination>{3daf800e-33d6-4716-8313-fc82ee227974}</destination>
 			<destination>{31af3212-c7c5-4535-b506-2bcc3ead8c04}</destination>
+			<destination>{3daf800e-33d6-4716-8313-fc82ee227974}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{b1e8f298-0372-4a4f-88c6-d0ca2200eaed}</destination>
@@ -73,7 +73,11 @@
 			<destination>{aeacf248-db04-4741-a250-5613185730a0}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{019a137e-b3a0-45e4-8587-b976184ef76d}" />
+	<object class="Timeline" id="{019a137e-b3a0-45e4-8587-b976184ef76d}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
 	<object class="ParameterProxy" id="{eaa5008e-27b9-4d1a-b686-42480dde9b43}">
 		<relationship name="modules">
 			<destination>{da5dc8ec-c401-4d35-9c18-b54922b83364}</destination>
@@ -82,20 +86,20 @@
 			<destination>{304154ca-7961-4157-afcd-7d0c4440c46b}</destination>
 		</relationship>
 	</object>
-	<object class="ParameterProxy" id="{3daf800e-33d6-4716-8313-fc82ee227974}">
-		<relationship name="modules">
-			<destination>{3f75ece5-f8c7-4d2d-bc60-75f75a5d55d7}</destination>
-		</relationship>
-		<relationship name="preset">
-			<destination>{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}</destination>
-		</relationship>
-	</object>
 	<object class="ParameterProxy" id="{31af3212-c7c5-4535-b506-2bcc3ead8c04}">
 		<relationship name="modules">
 			<destination>{ca3a487f-b54e-4529-87c0-b77c7e1ab87c}</destination>
 		</relationship>
 		<relationship name="preset">
 			<destination>{162e4bd8-2081-484b-b225-dfe155e72644}</destination>
+		</relationship>
+	</object>
+	<object class="ParameterProxy" id="{3daf800e-33d6-4716-8313-fc82ee227974}">
+		<relationship name="modules">
+			<destination>{3f75ece5-f8c7-4d2d-bc60-75f75a5d55d7}</destination>
+		</relationship>
+		<relationship name="preset">
+			<destination>{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{02a4be63-7bc0-405d-98ba-7b2334a705a5}">
