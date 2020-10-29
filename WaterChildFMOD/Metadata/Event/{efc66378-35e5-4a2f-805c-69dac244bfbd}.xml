@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{efc66378-35e5-4a2f-805c-69dac244bfbd}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>BridgePlant</value>
 		</property>
@@ -33,6 +36,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{bdd67d36-5b07-44e0-889a-e50c8f9de16b}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{b1e8f298-0372-4a4f-88c6-d0ca2200eaed}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{15f4b269-9f0b-49ab-bb1d-a163e52dbd27}">
