@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7716dc37-b344-4d42-bd67-8873c16b52a3}">
+		<property name="assetPath">
+			<value>Winds/Soft sea breeze - light, wispy gentle wind.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>243.03999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58a98c1f-3d93-4fd8-b10b-62fac294abc5}</destination>
+		</relationship>
+	</object>
+</objects>

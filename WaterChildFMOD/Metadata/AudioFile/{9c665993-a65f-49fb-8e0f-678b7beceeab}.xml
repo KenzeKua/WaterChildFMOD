@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9c665993-a65f-49fb-8e0f-678b7beceeab}">
+		<property name="assetPath">
+			<value>jrhodesza__shower-ambience.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>134.37014583333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58a98c1f-3d93-4fd8-b10b-62fac294abc5}</destination>
+		</relationship>
+	</object>
+</objects>
