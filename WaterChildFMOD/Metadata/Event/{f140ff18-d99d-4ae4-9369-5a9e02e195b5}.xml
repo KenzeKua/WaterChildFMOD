@@ -68,11 +68,23 @@
 	<object class="MarkerTrack" id="{aa4fdad9-e75d-4278-9d83-f2696c14d776}" />
 	<object class="MarkerTrack" id="{a2fcd6cd-fd56-40f4-ad3e-9c225e44c6ae}" />
 	<object class="GroupTrack" id="{de804f87-06b5-465c-a716-0cae047af1f1}">
+		<relationship name="modules">
+			<destination>{a49ad6bc-9457-427a-b3f8-f6f0385e3e83}</destination>
+			<destination>{e1eb41aa-967d-4fef-bc30-ab9d5f22b6f7}</destination>
+			<destination>{fc1008d6-0c2e-4949-af4d-43d0333bd21c}</destination>
+			<destination>{6d51195e-435b-4077-957a-3430c670c67d}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{2f5bfd42-dc6e-4b5e-a687-8faa7ef0efa7}</destination>
 		</relationship>
 	</object>
 	<object class="Timeline" id="{b565f01b-f42b-4f2f-b4db-a583dc9b3854}">
+		<relationship name="modules">
+			<destination>{a49ad6bc-9457-427a-b3f8-f6f0385e3e83}</destination>
+			<destination>{e1eb41aa-967d-4fef-bc30-ab9d5f22b6f7}</destination>
+			<destination>{fc1008d6-0c2e-4949-af4d-43d0333bd21c}</destination>
+			<destination>{6d51195e-435b-4077-957a-3430c670c67d}</destination>
+		</relationship>
 		<relationship name="markers">
 			<destination>{99002822-a3e5-48e5-82b4-201c9c495167}</destination>
 			<destination>{fe73d09e-3ce0-410f-ba2c-b32ecbe9c01a}</destination>
@@ -102,9 +114,50 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{1057cb25-b120-4a15-b65f-f811d1567aad}" />
+	<object class="SingleSound" id="{a49ad6bc-9457-427a-b3f8-f6f0385e3e83}">
+		<property name="length">
+			<value>6</value>
+		</property>
+		<property name="name">
+			<value>Here goes the idle loop sound when plant dead</value>
+		</property>
+	</object>
+	<object class="SingleSound" id="{e1eb41aa-967d-4fef-bc30-ab9d5f22b6f7}">
+		<property name="start">
+			<value>6</value>
+		</property>
+		<property name="length">
+			<value>6</value>
+		</property>
+		<property name="name">
+			<value>Here goes the loop during plant watering</value>
+		</property>
+	</object>
+	<object class="SingleSound" id="{fc1008d6-0c2e-4949-af4d-43d0333bd21c}">
+		<property name="start">
+			<value>14</value>
+		</property>
+		<property name="length">
+			<value>6</value>
+		</property>
+		<property name="name">
+			<value>Sound for when plant becomes alive</value>
+		</property>
+	</object>
+	<object class="SingleSound" id="{6d51195e-435b-4077-957a-3430c670c67d}">
+		<property name="start">
+			<value>20</value>
+		</property>
+		<property name="length">
+			<value>6</value>
+		</property>
+		<property name="name">
+			<value>Idle loop sound when plant alive</value>
+		</property>
+	</object>
 	<object class="EventMixerGroup" id="{2f5bfd42-dc6e-4b5e-a687-8faa7ef0efa7}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Platform</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{9f6cae0d-8cfb-42a8-b673-a1efb9f604d7}</destination>
@@ -149,7 +202,7 @@
 	</object>
 	<object class="NamedMarker" id="{9e13da18-6328-4dc9-bcb4-22210259b69f}">
 		<property name="position">
-			<value>8</value>
+			<value>6</value>
 		</property>
 		<property name="name">
 			<value>Activating</value>
@@ -183,7 +236,7 @@
 	</object>
 	<object class="LoopRegion" id="{7dfec03a-2b81-443b-ac49-996b127e70e1}">
 		<property name="position">
-			<value>8</value>
+			<value>6</value>
 		</property>
 		<property name="length">
 			<value>6</value>
@@ -200,7 +253,7 @@
 	</object>
 	<object class="NamedMarker" id="{3172196a-9866-47ab-b2c9-33676f0321a3}">
 		<property name="position">
-			<value>16</value>
+			<value>14</value>
 		</property>
 		<property name="name">
 			<value>EndActivation</value>
@@ -214,10 +267,10 @@
 	</object>
 	<object class="TransitionRegion" id="{c1bb6ca3-2289-4108-be08-0bf6268e9583}">
 		<property name="position">
-			<value>8</value>
+			<value>0</value>
 		</property>
 		<property name="length">
-			<value>6</value>
+			<value>12</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{b565f01b-f42b-4f2f-b4db-a583dc9b3854}</destination>
@@ -234,7 +287,7 @@
 	</object>
 	<object class="TransitionRegion" id="{25e1df2a-3697-4aea-8250-78af4c5ac6ac}">
 		<property name="position">
-			<value>8</value>
+			<value>6</value>
 		</property>
 		<property name="length">
 			<value>6</value>

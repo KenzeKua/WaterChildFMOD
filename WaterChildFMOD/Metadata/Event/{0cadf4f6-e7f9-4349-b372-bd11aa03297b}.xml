@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{0cadf4f6-e7f9-4349-b372-bd11aa03297b}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>Temple</value>
 		</property>
@@ -112,7 +115,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{775eabe3-ffe5-46da-ae60-4c611573db28}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Chimes</value>
 		</property>
 		<relationship name="automators">
 			<destination>{9be71592-d8c7-47b3-8008-1fa017775be3}</destination>

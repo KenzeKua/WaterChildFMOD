@@ -209,7 +209,7 @@
 			<value>-29.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Water</value>
 		</property>
 		<relationship name="automators">
 			<destination>{c398ac5d-0b7e-41f4-992b-7b84581f8a33}</destination>
@@ -276,7 +276,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{5cc5cbbd-1e1e-4b9c-85c0-17113b2f0ac0}">
 		<property name="name">
-			<value>Audio 5</value>
+			<value>Sprinkle</value>
 		</property>
 		<relationship name="automators">
 			<destination>{d05dcab0-8f53-4cbc-a513-58528c5f3bb4}</destination>
@@ -325,7 +325,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{105db4f4-10dd-42f6-9e4f-ffbd1a966430}">
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Twinkle</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{7832cca9-da96-4c9c-b3b8-d052ee5fb984}</destination>
