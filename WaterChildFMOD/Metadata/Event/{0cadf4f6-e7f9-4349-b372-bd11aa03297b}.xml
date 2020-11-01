@@ -177,6 +177,7 @@
 		<relationship name="effects">
 			<destination>{c9a3ef27-f670-405a-bdf1-b17de3cbb6a6}</destination>
 			<destination>{67ae03eb-3fa1-4477-94c1-db779540f08b}</destination>
+			<destination>{3d237be1-477e-4513-b161-735e07a71d69}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c9828bcb-1506-4167-9926-4b0e3d44c9a1}" />
@@ -199,12 +200,13 @@
 			<value>1</value>
 		</property>
 	</object>
+	<object class="LoudnessMeter" id="{3d237be1-477e-4513-b161-735e07a71d69}" />
 	<object class="AutomationPoint" id="{dcfbee4d-f34d-4d64-82be-62f9abf4fffb}">
 		<property name="position">
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-80</value>
+			<value>-11.2000008</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{f7930e3d-d7ae-4948-b0de-ab64259e4270}">
@@ -212,7 +214,7 @@
 			<value>3.5</value>
 		</property>
 		<property name="value">
-			<value>-42</value>
+			<value>-2</value>
 		</property>
 	</object>
 </objects>

@@ -140,7 +140,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{640844db-b92d-467b-af0a-3a0508eccf2f}">
 		<property name="volume">
-			<value>-42</value>
+			<value>-8.5</value>
 		</property>
 		<property name="name">
 			<value>Main Wind</value>
@@ -163,7 +163,7 @@
 			<value>Wind Swells</value>
 		</property>
 		<property name="polyphony">
-			<value>1</value>
+			<value>4</value>
 		</property>
 		<property name="minimumTimeBetweenSounds">
 			<value>30000</value>
@@ -185,6 +185,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{4bd7867a-a2ca-442b-839d-748acd91cc2a}">
+		<property name="volume">
+			<value>10</value>
+		</property>
 		<property name="name">
 			<value>Wind Swells</value>
 		</property>
@@ -244,6 +247,7 @@
 	<object class="MixerBusEffectChain" id="{677584ac-d1ce-45ae-9274-15b0825b2717}">
 		<relationship name="effects">
 			<destination>{1accc95c-20be-403f-a5d3-5d4bc6448489}</destination>
+			<destination>{912a418a-e757-455d-a108-154efe1bc167}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5cdcb103-dc58-4735-a85c-4f9e30ccae9b}" />
@@ -254,7 +258,9 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{223e27fb-1883-41c6-bfee-cc14e521f28e}">
 		<relationship name="effects">
+			<destination>{34f31ec5-f8e1-42eb-93b0-735e955b2c99}</destination>
 			<destination>{1c374443-bf13-4646-b63c-37f209bef6ce}</destination>
+			<destination>{a4632809-561b-40c7-837c-28c4929d8ff0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{7915948c-a8c7-4d55-a9fd-9871c4dda407}" />
@@ -299,10 +305,17 @@
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{1accc95c-20be-403f-a5d3-5d4bc6448489}" />
+	<object class="LoudnessMeter" id="{912a418a-e757-455d-a108-154efe1bc167}" />
 	<object class="SingleSound" id="{70c0e98a-642b-4d01-9aa3-9af29aa5c59e}">
 		<relationship name="audioFile">
 			<destination>{001648ce-47f3-4760-a3ba-47bbdfa63679}</destination>
 		</relationship>
 	</object>
+	<object class="GainEffect" id="{34f31ec5-f8e1-42eb-93b0-735e955b2c99}">
+		<property name="gain">
+			<value>10</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{1c374443-bf13-4646-b63c-37f209bef6ce}" />
+	<object class="LoudnessMeter" id="{a4632809-561b-40c7-837c-28c4929d8ff0}" />
 </objects>
