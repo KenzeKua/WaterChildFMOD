@@ -116,6 +116,9 @@
 		<relationship name="automationTracks">
 			<destination>{df8e4c41-8d86-4ea2-ae81-de529cec410a}</destination>
 		</relationship>
+		<relationship name="modules">
+			<destination>{fff1a516-7cf3-44f7-bd2f-3e3e05fe8d5f}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{7e4e6287-98ba-4a03-b26f-30d18cc0f9e8}</destination>
 		</relationship>
@@ -124,6 +127,7 @@
 		<relationship name="modules">
 			<destination>{9527cec0-f48f-498e-b5e5-9d1474ad569d}</destination>
 			<destination>{b2a1fc57-95e1-4741-941e-c626d9183a77}</destination>
+			<destination>{fff1a516-7cf3-44f7-bd2f-3e3e05fe8d5f}</destination>
 		</relationship>
 	</object>
 	<object class="ParameterProxy" id="{735b91c6-7b3f-4e96-91f4-c94a40615642}">
@@ -303,6 +307,22 @@
 			<destination>{c8ca203a-fcea-49be-a3a0-c0b757bebd24}</destination>
 		</relationship>
 	</object>
+	<object class="MultiSound" id="{fff1a516-7cf3-44f7-bd2f-3e3e05fe8d5f}">
+		<property name="length">
+			<value>0.52800000000000002</value>
+		</property>
+		<property name="playlistMode">
+			<value>1</value>
+		</property>
+		<relationship name="sounds">
+			<destination>{2d4ff7af-c861-48bf-ba5c-7a479cdf3da2}</destination>
+			<destination>{8f0654cb-426b-4d28-ba8d-227b0f7d3608}</destination>
+			<destination>{3fac4ace-c5c6-4b3a-8bb6-c2c51546a17e}</destination>
+			<destination>{c1f5e319-23fe-4bb1-9e19-cbb6322eb32a}</destination>
+			<destination>{6c13aa6b-5f2d-4b1d-bf86-d9e29f7a8ecb}</destination>
+			<destination>{d74a56e7-8281-4f50-8734-2aeb6bf37a8c}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerGroup" id="{7e4e6287-98ba-4a03-b26f-30d18cc0f9e8}">
 		<property name="color">
 			<value>Green Light 1</value>
@@ -437,6 +457,36 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6a0a43fc-6a98-45a6-b4cd-ea4cd8db9f72}" />
+	<object class="SingleSound" id="{2d4ff7af-c861-48bf-ba5c-7a479cdf3da2}">
+		<relationship name="audioFile">
+			<destination>{f3144f82-08d3-4348-a7a3-d04bbf004a4e}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{8f0654cb-426b-4d28-ba8d-227b0f7d3608}">
+		<relationship name="audioFile">
+			<destination>{014e6ce9-83c1-47ce-b299-f63164091ecd}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{3fac4ace-c5c6-4b3a-8bb6-c2c51546a17e}">
+		<relationship name="audioFile">
+			<destination>{5e3ea6cc-6eff-4b81-ba8d-9d513a8f8239}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{c1f5e319-23fe-4bb1-9e19-cbb6322eb32a}">
+		<relationship name="audioFile">
+			<destination>{0879ef53-a0c2-4c67-9d91-42bea10af509}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{6c13aa6b-5f2d-4b1d-bf86-d9e29f7a8ecb}">
+		<relationship name="audioFile">
+			<destination>{11d08f63-9a1b-45d1-b173-8e866aaea0d9}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{d74a56e7-8281-4f50-8734-2aeb6bf37a8c}">
+		<relationship name="audioFile">
+			<destination>{e4556cde-b737-405b-9eb4-ced558c8aed6}</destination>
+		</relationship>
+	</object>
 	<object class="Automator" id="{c8ca203a-fcea-49be-a3a0-c0b757bebd24}">
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
@@ -448,6 +498,7 @@
 	<object class="MixerBusEffectChain" id="{7acba155-995b-400d-b9a2-47e353c6f61c}">
 		<relationship name="effects">
 			<destination>{b259ea93-2ca3-41cc-97f9-2358eb62b477}</destination>
+			<destination>{a23a980e-531f-4938-a881-bdb32a99b199}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d2d0deee-fd14-4f5a-817d-b106f81734bb}" />
@@ -534,6 +585,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{b259ea93-2ca3-41cc-97f9-2358eb62b477}" />
+	<object class="LoudnessMeter" id="{a23a980e-531f-4938-a881-bdb32a99b199}" />
 	<object class="AutomationPoint" id="{03dcb092-43c4-4517-9628-928782625711}">
 		<property name="position">
 			<value>0.5</value>
@@ -651,7 +703,7 @@
 			<value>3.9500000000000002</value>
 		</property>
 		<property name="value">
-			<value>-80</value>
+			<value>0</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{7bbd4d1b-9b74-4048-bc55-501a638c5cd7}">
@@ -659,7 +711,7 @@
 			<value>4.0000208333333331</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>10</value>
 		</property>
 	</object>
 </objects>
