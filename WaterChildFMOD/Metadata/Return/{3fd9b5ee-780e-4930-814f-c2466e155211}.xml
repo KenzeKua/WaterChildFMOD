@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>TrackA_Return</value>
 		</property>
+		<relationship name="masters">
+			<destination>{b4e58034-d5df-447f-908a-9404b3860ca3}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{ebc48c96-feef-4c62-8408-ccf9c078fc9c}</destination>
 		</relationship>
