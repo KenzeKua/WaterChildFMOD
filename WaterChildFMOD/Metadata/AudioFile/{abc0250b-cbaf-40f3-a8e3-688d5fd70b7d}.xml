@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{77de89b3-1ebd-44db-8bb3-d1b62495db0b}">
+	<object class="AudioFile" id="{abc0250b-cbaf-40f3-a8e3-688d5fd70b7d}">
 		<property name="assetPath">
-			<value>SFX/Character/Footsteps/Iteration 1/FootStep_05.mp3</value>
+			<value>SFX/Character/Footsteps/Iteration 2/Footsteps_06.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
