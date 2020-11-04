@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Snapshot" id="{cc161f01-d1e1-4666-be64-e59d93b5dc2a}">
 		<property name="name">
-			<value>TrackA Snapshot</value>
+			<value>TrackA_Snapshot</value>
 		</property>
 		<relationship name="mixer">
 			<destination>{b211fd7e-c30a-4922-bd4f-5b9569e41b88}</destination>
