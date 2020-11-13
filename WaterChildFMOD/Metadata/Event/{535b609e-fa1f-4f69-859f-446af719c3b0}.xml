@@ -182,7 +182,7 @@
 			<value>-19.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Bubble</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{0357c0fd-9612-441e-8303-4be6171fc583}</destination>
