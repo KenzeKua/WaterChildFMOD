@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{eca535d4-9ec8-49a5-b293-1c2be138461a}">
+		<property name="assetPath">
+			<value>SFX/Plant Placeholder/Leech_Seed.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.619591836734694</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58a98c1f-3d93-4fd8-b10b-62fac294abc5}</destination>
+		</relationship>
+	</object>
+</objects>
