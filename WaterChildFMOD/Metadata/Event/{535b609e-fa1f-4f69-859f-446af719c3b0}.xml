@@ -96,7 +96,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{0453a60b-f0f5-4063-8762-41fa8867e07b}">
 		<property name="volume">
-			<value>-15.5</value>
+			<value>-11.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{1cc51aee-c990-4ad0-ad73-2fb8918a4290}</destination>
@@ -179,7 +179,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{ec69214b-1071-4815-9cea-a1dce5085788}">
 		<property name="volume">
-			<value>-19.5</value>
+			<value>-23</value>
 		</property>
 		<property name="name">
 			<value>Bubble</value>
@@ -279,11 +279,7 @@
 		</relationship>
 	</object>
 	<object class="LoudnessMeter" id="{c8bad21e-773c-4fac-b5c5-89f35136e89b}" />
-	<object class="GainEffect" id="{72e26167-0b96-478b-8839-57675539f160}">
-		<property name="gain">
-			<value>7</value>
-		</property>
-	</object>
+	<object class="GainEffect" id="{72e26167-0b96-478b-8839-57675539f160}" />
 	<object class="MixerBusFader" id="{74f243df-9c94-48ce-af6e-81b53586e857}" />
 	<object class="MixerBusFader" id="{8675dfd6-c458-40f4-9069-e8e04f79b719}" />
 	<object class="LoudnessMeter" id="{bf1e0a09-d398-4e41-acbc-3d3563208dca}" />

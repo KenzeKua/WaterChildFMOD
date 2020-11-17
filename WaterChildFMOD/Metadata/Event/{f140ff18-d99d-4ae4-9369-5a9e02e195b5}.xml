@@ -272,7 +272,7 @@
 			<value>0.60000000000000497</value>
 		</property>
 		<property name="volume">
-			<value>-17</value>
+			<value>-12</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{c1e4ee13-c3a0-4601-91cd-2804b1d6a9ee}</destination>
@@ -295,7 +295,7 @@
 			<value>0.3326530612244909</value>
 		</property>
 		<property name="volume">
-			<value>-17</value>
+			<value>-12</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{974302ec-7583-4f52-9e18-3ae79f0326ce}</destination>
