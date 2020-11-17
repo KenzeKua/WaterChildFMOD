@@ -103,7 +103,7 @@
 	<object class="MixerBusPanner" id="{72d69cef-12a1-41d3-a854-132e434f5037}" />
 	<object class="MultiSound" id="{e2b451b7-846e-4d62-9d1a-c259340a5088}">
 		<property name="length">
-			<value>0.56000000000000005</value>
+			<value>0.51000000000000001</value>
 		</property>
 		<property name="pitch">
 			<value>-6</value>
@@ -136,7 +136,7 @@
 	</object>
 	<object class="MultiSound" id="{514d348e-4d6a-488f-a02c-3490ba66cca8}">
 		<property name="length">
-			<value>0.45000000000000001</value>
+			<value>0.42999999999999999</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{f129a00d-2dc5-4c5a-ac68-ae655c28e5a8}</destination>
@@ -255,8 +255,11 @@
 	<object class="MixerBusFader" id="{d9a6d084-3748-4b2d-b5e4-c95b35428120}" />
 	<object class="SpatialiserEffect" id="{a3528437-37fe-45fc-b3ef-1543b32de5c1}" />
 	<object class="ThreeEQEffect" id="{8eb21438-8372-4494-8700-e01f486c4daa}">
+		<property name="lowGain">
+			<value>-6.5</value>
+		</property>
 		<property name="midGain">
-			<value>-12</value>
+			<value>-15.5</value>
 		</property>
 		<property name="highGain">
 			<value>-19</value>
@@ -265,13 +268,13 @@
 	<object class="MixerBusFader" id="{db3fd9f3-f131-4aef-8c4e-b3fa4be3a9ab}" />
 	<object class="ThreeEQEffect" id="{b55fcd63-a49f-4a6c-b628-345403dcb024}">
 		<property name="lowGain">
-			<value>10</value>
+			<value>8</value>
 		</property>
 		<property name="midGain">
-			<value>-44</value>
+			<value>-40</value>
 		</property>
 		<property name="highGain">
-			<value>-42</value>
+			<value>-34</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{d5bc4d2e-650c-4c07-9b53-d4ec7f8b1131}" />
