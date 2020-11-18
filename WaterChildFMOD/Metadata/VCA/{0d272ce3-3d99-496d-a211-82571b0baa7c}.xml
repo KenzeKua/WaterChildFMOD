@@ -4,11 +4,47 @@
 		<property name="name">
 			<value>SFX</value>
 		</property>
+		<relationship name="automators">
+			<destination>{74647632-29bd-4f2a-9552-53c3a8a1fff0}</destination>
+		</relationship>
 		<relationship name="masters">
 			<destination>{b8e47b33-66b4-457f-a6d8-7d77b2b34012}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{b211fd7e-c30a-4922-bd4f-5b9569e41b88}</destination>
 		</relationship>
+	</object>
+	<object class="Automator" id="{74647632-29bd-4f2a-9552-53c3a8a1fff0}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>volume</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{b7f46b41-893d-4165-addb-0479db846d87}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationCurve" id="{b7f46b41-893d-4165-addb-0479db846d87}">
+		<relationship name="parameter">
+			<destination>{b298757c-f9e3-48d7-b99b-4851db14e010}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{0ca091d0-55da-470e-9254-5c0d9dca6b06}</destination>
+			<destination>{56cb43c1-11a9-41e6-8504-f60f720d043f}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{0ca091d0-55da-470e-9254-5c0d9dca6b06}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>-80</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{56cb43c1-11a9-41e6-8504-f60f720d043f}">
+		<property name="position">
+			<value>1</value>
+		</property>
+		<property name="value">
+			<value>10</value>
+		</property>
 	</object>
 </objects>
