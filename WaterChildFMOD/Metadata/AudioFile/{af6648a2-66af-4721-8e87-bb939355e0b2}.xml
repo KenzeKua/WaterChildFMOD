@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{af6648a2-66af-4721-8e87-bb939355e0b2}">
 		<property name="assetPath">
-			<value>SFX/Plant Placeholder/drop_gem_shop.mp3</value>
+			<value>SFX/Buttons/drop_gem_shop.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
