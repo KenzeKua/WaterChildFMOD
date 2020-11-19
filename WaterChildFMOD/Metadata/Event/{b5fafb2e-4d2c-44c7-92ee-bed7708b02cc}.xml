@@ -150,7 +150,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{92f3e2ed-9f00-4841-88e5-a0ab2fee52ad}">
 		<property name="volume">
-			<value>-9</value>
+			<value>-7.5</value>
 		</property>
 		<property name="name">
 			<value>Tap</value>
@@ -256,25 +256,25 @@
 	<object class="SpatialiserEffect" id="{a3528437-37fe-45fc-b3ef-1543b32de5c1}" />
 	<object class="ThreeEQEffect" id="{8eb21438-8372-4494-8700-e01f486c4daa}">
 		<property name="lowGain">
-			<value>-6.5</value>
+			<value>-2.5</value>
 		</property>
 		<property name="midGain">
-			<value>-15.5</value>
+			<value>-5</value>
 		</property>
 		<property name="highGain">
-			<value>-19</value>
+			<value>-15.5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{db3fd9f3-f131-4aef-8c4e-b3fa4be3a9ab}" />
 	<object class="ThreeEQEffect" id="{b55fcd63-a49f-4a6c-b628-345403dcb024}">
 		<property name="lowGain">
-			<value>8</value>
+			<value>10</value>
 		</property>
 		<property name="midGain">
-			<value>-40</value>
+			<value>-20.5</value>
 		</property>
 		<property name="highGain">
-			<value>-34</value>
+			<value>-23</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{d5bc4d2e-650c-4c07-9b53-d4ec7f8b1131}" />
