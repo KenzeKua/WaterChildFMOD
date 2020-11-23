@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{20f8cb17-dac2-4432-90b3-4320aef319b1}">
 		<property name="assetPath">
-			<value>SFX/Plant Placeholder/Hand_of_Midas.mp3</value>
+			<value>SFX/Plants/Hand_of_Midas.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{864d7041-d254-4080-806f-5b6cda5143e6}">
+		<property name="assetPath">
+			<value>SFX/Cloth Rustle/LightCloth2.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.7120000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58a98c1f-3d93-4fd8-b10b-62fac294abc5}</destination>
+		</relationship>
+	</object>
+</objects>

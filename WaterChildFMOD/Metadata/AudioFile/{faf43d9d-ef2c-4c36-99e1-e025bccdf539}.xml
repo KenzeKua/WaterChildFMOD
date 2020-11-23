@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{faf43d9d-ef2c-4c36-99e1-e025bccdf539}">
 		<property name="assetPath">
-			<value>SFX/Plant Placeholder/Rainstick.mp3</value>
+			<value>SFX/Plants/Rainstick.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

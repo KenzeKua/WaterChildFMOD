@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{7716dc37-b344-4d42-bd67-8873c16b52a3}">
 		<property name="assetPath">
-			<value>Winds/Soft sea breeze - light, wispy gentle wind.wav</value>
+			<value>SFX/Winds/Soft sea breeze - light, wispy gentle wind.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

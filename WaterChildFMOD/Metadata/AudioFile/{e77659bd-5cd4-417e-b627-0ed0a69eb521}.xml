@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e77659bd-5cd4-417e-b627-0ed0a69eb521}">
+		<property name="assetPath">
+			<value>SFX/Cloth Rustle/HeavyCloth2.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1120000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58a98c1f-3d93-4fd8-b10b-62fac294abc5}</destination>
+		</relationship>
+	</object>
+</objects>

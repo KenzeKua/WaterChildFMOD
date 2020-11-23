@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{d74e457a-eaa1-4baa-aaa1-c202d79657e7}">
 		<property name="assetPath">
-			<value>SFX/Character/Footsteps/StonyStep/StoneStep6.mp3</value>
+			<value>SFX/Character/Footsteps/Stony Steps/StoneStep6.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

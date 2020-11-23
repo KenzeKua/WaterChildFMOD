@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{b0ab32ac-6272-4e97-a67c-9ab8817a73ad}">
 		<property name="assetPath">
-			<value>SFX/Plant Placeholder/Overgrowth3.mp3</value>
+			<value>SFX/Plants/Overgrowth3.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
