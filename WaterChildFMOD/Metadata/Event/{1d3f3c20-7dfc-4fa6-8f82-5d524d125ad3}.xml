@@ -141,7 +141,7 @@
 			<value>0.32887007960131598</value>
 		</property>
 		<property name="volume">
-			<value>-31</value>
+			<value>-52</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{66296f16-dbf3-440d-900f-8e99bf86e8e9}</destination>
@@ -155,7 +155,7 @@
 			<value>0.32887007960131598</value>
 		</property>
 		<property name="volume">
-			<value>-31</value>
+			<value>-52</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{2a031b01-ab33-45e9-987f-cb654aa61728}</destination>
@@ -198,7 +198,7 @@
 			<value>0.10000000000000001</value>
 		</property>
 		<property name="volume">
-			<value>-31</value>
+			<value>-52</value>
 		</property>
 		<property name="pitch">
 			<value>-2.60000014</value>

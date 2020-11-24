@@ -98,6 +98,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{315c4222-f7a3-453d-97fb-61f9c0e30105}">
+		<property name="volume">
+			<value>-7.5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{9d6902f1-8b92-4bbc-8c93-3a728d42f8d5}</destination>
 		</relationship>
@@ -125,7 +128,7 @@
 			<value>4000</value>
 		</property>
 		<property name="spawnRate">
-			<value>16</value>
+			<value>14</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>0</value>
@@ -138,6 +141,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{002364e0-5734-49e9-a37e-060c089b21aa}">
+		<property name="volume">
+			<value>-5.5</value>
+		</property>
 		<property name="name">
 			<value>Cloth Rustle</value>
 		</property>
@@ -196,7 +202,7 @@
 			<value>2.8212244897959184</value>
 		</property>
 		<property name="spawnRate">
-			<value>22</value>
+			<value>40</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>0</value>
@@ -210,7 +216,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{20692c19-f47e-48d3-ac79-c9bfb5243bf5}">
 		<property name="volume">
-			<value>6</value>
+			<value>2.5</value>
 		</property>
 		<property name="name">
 			<value>Light Cloth</value>

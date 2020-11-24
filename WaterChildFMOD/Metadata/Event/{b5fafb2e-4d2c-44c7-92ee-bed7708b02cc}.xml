@@ -262,7 +262,7 @@
 			<value>-5</value>
 		</property>
 		<property name="highGain">
-			<value>-15.5</value>
+			<value>-25</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{db3fd9f3-f131-4aef-8c4e-b3fa4be3a9ab}" />
@@ -274,7 +274,7 @@
 			<value>-20.5</value>
 		</property>
 		<property name="highGain">
-			<value>-23</value>
+			<value>-37</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{d5bc4d2e-650c-4c07-9b53-d4ec7f8b1131}" />
