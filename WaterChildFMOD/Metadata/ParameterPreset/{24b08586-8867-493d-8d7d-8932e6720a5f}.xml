@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{24b08586-8867-493d-8d7d-8932e6720a5f}">
+		<property name="name">
+			<value>SmallGearVol</value>
+		</property>
+		<relationship name="folder">
+			<destination>{978857c9-828b-4ab4-b35b-707dcb00656b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{36e1cdc4-1090-457a-a826-e4f0b7497e88}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{36e1cdc4-1090-457a-a826-e4f0b7497e88}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{184ebf30-3828-4cc0-a298-e10a45ba60c0}">
+		<property name="name">
+			<value>MediumGearVol</value>
+		</property>
+		<relationship name="folder">
+			<destination>{978857c9-828b-4ab4-b35b-707dcb00656b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{01d8202d-5c62-4b23-ae1d-7226e0284406}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{01d8202d-5c62-4b23-ae1d-7226e0284406}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+	</object>
+</objects>
