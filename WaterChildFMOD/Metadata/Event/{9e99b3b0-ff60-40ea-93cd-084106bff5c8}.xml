@@ -181,7 +181,7 @@
 	</object>
 	<object class="SingleSound" id="{2c057be4-2dc6-4a61-81d0-f6eb9d1a9812}">
 		<property name="length">
-			<value>18</value>
+			<value>6</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>2.9226459041368806</value>
@@ -215,7 +215,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>18</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{a190e53b-18d0-42be-a362-822e0bfc66cd}</destination>
@@ -347,18 +347,18 @@
 	</object>
 	<object class="AutomationPoint" id="{37578ee4-898c-47f2-82a1-f9ec186afc6d}">
 		<property name="position">
-			<value>16</value>
+			<value>4.5</value>
 		</property>
 		<property name="value">
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.347673059</value>
+			<value>0.237430826</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{db7bd8a8-2849-4a15-b7c8-b44c1a851a7b}">
 		<property name="position">
-			<value>18</value>
+			<value>6</value>
 		</property>
 		<property name="value">
 			<value>0</value>

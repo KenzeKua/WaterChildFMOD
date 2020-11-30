@@ -190,7 +190,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{6315bbf1-c939-4944-ac34-64744eaa1d1a}">
 		<property name="volume">
-			<value>-5</value>
+			<value>-7.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{b77e7905-bc42-40bd-8036-6dd7fa5e36bf}</destination>
@@ -434,7 +434,7 @@
 	</object>
 	<object class="SingleSound" id="{995dea71-9abd-42c7-8d49-88f03e4a99db}">
 		<property name="start">
-			<value>2.5668281422790789</value>
+			<value>2.625</value>
 		</property>
 		<property name="length">
 			<value>0.5</value>
@@ -572,7 +572,7 @@
 	</object>
 	<object class="SingleSound" id="{a9bf8c2e-dbfb-4c82-bcaf-65f2c92fd2d0}">
 		<property name="start">
-			<value>2.9418281422790789</value>
+			<value>3.0334140711395396</value>
 		</property>
 		<property name="length">
 			<value>0.5</value>
@@ -994,7 +994,7 @@
 	</object>
 	<object class="AutomationPoint" id="{b82865a4-4434-4895-af1f-e75ac5604ed6}">
 		<property name="position">
-			<value>2.5668281422790789</value>
+			<value>2.625</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -1005,7 +1005,7 @@
 	</object>
 	<object class="AutomationPoint" id="{6fb5acba-d102-4e14-9862-46857b0de376}">
 		<property name="position">
-			<value>3.0668281422790744</value>
+			<value>3.1249999999999956</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -1042,7 +1042,7 @@
 	</object>
 	<object class="AutomationPoint" id="{b550f06f-c259-43a4-a06d-bfbf6f97d8c9}">
 		<property name="position">
-			<value>2.9418281422790789</value>
+			<value>3.0334140711395396</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -1053,7 +1053,7 @@
 	</object>
 	<object class="AutomationPoint" id="{a113b69b-a059-4288-83be-02f6f8fb7533}">
 		<property name="position">
-			<value>3.4418281422790744</value>
+			<value>3.5334140711395352</value>
 		</property>
 		<property name="value">
 			<value>0</value>
