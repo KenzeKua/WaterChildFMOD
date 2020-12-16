@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Workspace" id="{86025ee3-ce7e-4a89-aea8-f5a5c365b4d1}">
 		<property name="builtBanksOutputDirectory">
-			<value>E:/Unreal Projects/WaterChild/WaterChild/Content/FMOD</value>
+			<value>../../../Unreal Projects/WaterChild/WaterChild/Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{36cea7ff-b437-47de-a229-bb733d5b0442}</destination>
