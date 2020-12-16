@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{8690f373-7253-40c8-ac6d-cdf183772da2}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
+		<property name="name">
+			<value>Glockenspiel_Return</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{aa86872a-2e24-4729-ba20-fdf8822dee93}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{f1670ea3-31da-4789-8662-b74d084c1a36}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{550bba4e-0963-4146-99e7-302c7a9ef913}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{aa86872a-2e24-4729-ba20-fdf8822dee93}">
+		<relationship name="effects">
+			<destination>{95a2955d-ba22-4e2a-b697-e75e95951735}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{f1670ea3-31da-4789-8662-b74d084c1a36}" />
+	<object class="MixerBusFader" id="{95a2955d-ba22-4e2a-b697-e75e95951735}" />
+</objects>

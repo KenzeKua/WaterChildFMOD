@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="ParameterPreset" id="{1980993e-62a6-4cad-bfac-a45f68cdc891}">
+	<object class="ParameterPreset" id="{7de27ed4-bd18-445b-aec7-8638f7a8fc18}">
 		<property name="name">
-			<value>TrackB</value>
+			<value>PianoMelody</value>
 		</property>
 		<relationship name="folder">
-			<destination>{7c0261b0-d371-4556-922e-77156d90cac3}</destination>
+			<destination>{a7d40efd-ee8e-417d-92ed-84bc04109824}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}</destination>
+			<destination>{e6eb99cb-1678-4988-baaf-e299d13fd89c}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}">
+	<object class="GameParameter" id="{e6eb99cb-1678-4988-baaf-e299d13fd89c}">
 		<property name="parameterType">
 			<value>2</value>
 		</property>
@@ -19,8 +19,8 @@
 			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Track B Off</value>
-			<value>Track B On</value>
+			<value>Melody Off</value>
+			<value>Melody On</value>
 		</property>
 		<property name="initialValue">
 			<value>1</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{51eee883-d733-4aa3-8b54-cf6a78f1fefb}">
 		<property name="color">
-			<value>Blue</value>
+			<value>Yellow</value>
 		</property>
 		<property name="name">
 			<value>MusicLoop</value>
@@ -161,9 +161,6 @@
 		</relationship>
 	</object>
 	<object class="SnapshotModule" id="{aab7eb29-3ece-46f2-90fc-f3cc19c27ddc}">
-		<property name="start">
-			<value>1</value>
-		</property>
 		<relationship name="event">
 			<destination>{a80d05c4-56e3-4ca2-a400-120eb7cc8475}</destination>
 		</relationship>
@@ -197,9 +194,6 @@
 		</relationship>
 	</object>
 	<object class="SnapshotModule" id="{e7dcf65d-c9e5-4f3c-91e2-d316b2677d10}">
-		<property name="start">
-			<value>1</value>
-		</property>
 		<relationship name="event">
 			<destination>{cc161f01-d1e1-4666-be64-e59d93b5dc2a}</destination>
 		</relationship>
@@ -233,9 +227,6 @@
 		</relationship>
 	</object>
 	<object class="SnapshotModule" id="{25998914-9408-49d8-845a-5c777ba59a58}">
-		<property name="start">
-			<value>1</value>
-		</property>
 		<relationship name="event">
 			<destination>{de6a9b04-0ba9-47df-bb62-4057e3acc037}</destination>
 		</relationship>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="ParameterPreset" id="{1980993e-62a6-4cad-bfac-a45f68cdc891}">
+	<object class="ParameterPreset" id="{c90f45e5-284a-4e85-8ea0-dad0effed59b}">
 		<property name="name">
-			<value>TrackB</value>
+			<value>Glockenspiel</value>
 		</property>
 		<relationship name="folder">
-			<destination>{7c0261b0-d371-4556-922e-77156d90cac3}</destination>
+			<destination>{a7d40efd-ee8e-417d-92ed-84bc04109824}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}</destination>
+			<destination>{5033a578-3e3e-4b02-8efe-ac43995b75ce}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}">
+	<object class="GameParameter" id="{5033a578-3e3e-4b02-8efe-ac43995b75ce}">
 		<property name="parameterType">
 			<value>2</value>
 		</property>
@@ -19,8 +19,8 @@
 			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Track B Off</value>
-			<value>Track B On</value>
+			<value>Glockenspiel Off</value>
+			<value>Glockenspiel On</value>
 		</property>
 		<property name="initialValue">
 			<value>1</value>

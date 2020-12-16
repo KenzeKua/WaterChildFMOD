@@ -19,11 +19,11 @@
 			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>TrackAOn</value>
-			<value>TrackAOff</value>
+			<value>Track A Off</value>
+			<value>Track A On</value>
 		</property>
 		<property name="initialValue">
-			<value>0</value>
+			<value>1</value>
 		</property>
 	</object>
 </objects>

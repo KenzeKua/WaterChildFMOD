@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{03402459-719f-412c-a47d-31f1abab3b58}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
+		<property name="name">
+			<value>Viola_Return</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{c1d8dffa-978a-4009-a8f9-4053a7a6c9be}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{4026e13a-d454-425d-8c81-a449d8b48a40}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{550bba4e-0963-4146-99e7-302c7a9ef913}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{c1d8dffa-978a-4009-a8f9-4053a7a6c9be}">
+		<relationship name="effects">
+			<destination>{d92c2032-87b5-4eb0-9d12-c1c5ac45e879}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{4026e13a-d454-425d-8c81-a449d8b48a40}" />
+	<object class="MixerBusFader" id="{d92c2032-87b5-4eb0-9d12-c1c5ac45e879}" />
+</objects>

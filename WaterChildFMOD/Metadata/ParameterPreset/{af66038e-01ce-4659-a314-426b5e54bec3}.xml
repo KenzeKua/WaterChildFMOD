@@ -16,7 +16,7 @@
 			<value>true</value>
 		</property>
 		<property name="initialValue">
-			<value>0</value>
+			<value>0.80000000000000004</value>
 		</property>
 		<property name="seekSpeed">
 			<value>0.33000001311302185</value>

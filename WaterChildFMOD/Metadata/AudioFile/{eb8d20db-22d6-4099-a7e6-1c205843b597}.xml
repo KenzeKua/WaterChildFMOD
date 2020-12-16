@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{2e91c12b-e8e4-46f9-ac94-dac8e0806a25}">
+	<object class="AudioFile" id="{eb8d20db-22d6-4099-a7e6-1c205843b597}">
 		<property name="assetPath">
-			<value>Music/MusicLoop/Track B.mp3</value>
+			<value>Music/Finale/Piano Melody.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
