@@ -5,7 +5,7 @@
 			<value>PianoMelody</value>
 		</property>
 		<relationship name="folder">
-			<destination>{a7d40efd-ee8e-417d-92ed-84bc04109824}</destination>
+			<destination>{c2b28845-5101-495f-bf8f-1d25eda18070}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{e6eb99cb-1678-4988-baaf-e299d13fd89c}</destination>

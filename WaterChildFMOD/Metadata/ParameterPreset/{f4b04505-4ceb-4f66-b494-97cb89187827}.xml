@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="ParameterPreset" id="{9cd9437a-fd60-46bf-a802-403b14e3291d}">
+	<object class="ParameterPreset" id="{f4b04505-4ceb-4f66-b494-97cb89187827}">
 		<property name="name">
-			<value>Viola</value>
+			<value>PianoAccomp2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c2b28845-5101-495f-bf8f-1d25eda18070}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{b252010b-9b63-4866-8653-79af5a904c1e}</destination>
+			<destination>{18f39d67-ea54-489d-a7a7-b8f52655d9f6}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{b252010b-9b63-4866-8653-79af5a904c1e}">
+	<object class="GameParameter" id="{18f39d67-ea54-489d-a7a7-b8f52655d9f6}">
 		<property name="parameterType">
 			<value>2</value>
 		</property>
@@ -19,8 +19,8 @@
 			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Viola Off</value>
-			<value>Viola On</value>
+			<value>Accomp Off</value>
+			<value>Accomp On</value>
 		</property>
 		<property name="initialValue">
 			<value>1</value>

@@ -5,7 +5,7 @@
 			<value>Magenta</value>
 		</property>
 		<property name="name">
-			<value>PianoAccomp_Return</value>
+			<value>PianoAccomp1_Return</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{d27b8ed7-a9b3-42cb-ac30-1b12b3f9a242}</destination>

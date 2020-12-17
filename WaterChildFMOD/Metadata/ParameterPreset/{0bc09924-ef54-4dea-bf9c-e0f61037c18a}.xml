@@ -5,7 +5,7 @@
 			<value>Cello</value>
 		</property>
 		<relationship name="folder">
-			<destination>{a7d40efd-ee8e-417d-92ed-84bc04109824}</destination>
+			<destination>{c2b28845-5101-495f-bf8f-1d25eda18070}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{1400e329-80bd-4e60-8cf9-8aca2d445459}</destination>

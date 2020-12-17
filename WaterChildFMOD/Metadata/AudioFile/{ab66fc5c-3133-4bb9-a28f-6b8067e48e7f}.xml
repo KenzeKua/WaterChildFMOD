@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{f5290888-3dca-4514-9edf-f0fd82c4e43b}">
+	<object class="AudioFile" id="{ab66fc5c-3133-4bb9-a28f-6b8067e48e7f}">
 		<property name="assetPath">
-			<value>Music/Music Layer/Main Track.mp3</value>
+			<value>Music/Music Layer/BGM-Piano Melody.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

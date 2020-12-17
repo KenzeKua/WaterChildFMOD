@@ -5,7 +5,7 @@
 			<value>TrackB</value>
 		</property>
 		<relationship name="folder">
-			<destination>{7c0261b0-d371-4556-922e-77156d90cac3}</destination>
+			<destination>{c2b28845-5101-495f-bf8f-1d25eda18070}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{d8c92fa0-9b4e-4bbf-a563-7cbef190cadf}</destination>

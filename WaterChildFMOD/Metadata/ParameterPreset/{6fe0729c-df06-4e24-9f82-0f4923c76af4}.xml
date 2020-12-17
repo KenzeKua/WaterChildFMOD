@@ -5,7 +5,7 @@
 			<value>MainTrack</value>
 		</property>
 		<relationship name="folder">
-			<destination>{7c0261b0-d371-4556-922e-77156d90cac3}</destination>
+			<destination>{c2b28845-5101-495f-bf8f-1d25eda18070}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{304154ca-7961-4157-afcd-7d0c4440c46b}</destination>

@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="ParameterPreset" id="{04b38086-9eba-4255-8a84-10fa67773a41}">
 		<property name="name">
-			<value>PianoAccomp</value>
+			<value>PianoAccomp1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{a7d40efd-ee8e-417d-92ed-84bc04109824}</destination>
+			<destination>{c2b28845-5101-495f-bf8f-1d25eda18070}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{83dc4aef-0087-493b-9d2d-614fa6380bfc}</destination>

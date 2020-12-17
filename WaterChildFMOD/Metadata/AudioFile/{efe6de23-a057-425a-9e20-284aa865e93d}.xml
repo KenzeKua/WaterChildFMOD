@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{196e8e3d-e017-474c-94b5-6d91e9ac53c9}">
+	<object class="AudioFile" id="{efe6de23-a057-425a-9e20-284aa865e93d}">
 		<property name="assetPath">
-			<value>Music/Finale/Violin Section.mp3</value>
+			<value>Music/Music Layer/BGM-Piano Accomp 2.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

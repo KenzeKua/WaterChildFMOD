@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{aa69f620-64d1-4809-b1f2-70abdc5cb3a2}">
+	<object class="AudioFile" id="{49de253d-975c-4dfd-ba5e-0781aaee45bb}">
 		<property name="assetPath">
-			<value>Music/Finale/Glockenspiel.mp3</value>
+			<value>Music/Music Layer/BGM-Violin Section.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

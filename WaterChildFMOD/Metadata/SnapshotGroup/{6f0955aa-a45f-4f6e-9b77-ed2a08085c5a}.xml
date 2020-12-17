@@ -5,14 +5,18 @@
 			<value>Magenta</value>
 		</property>
 		<property name="name">
-			<value>BGM</value>
+			<value>Music Layer</value>
 		</property>
 		<relationship name="folder">
 			<destination>{8a7a15af-c499-42c0-9c65-7ae1525a7f97}</destination>
 		</relationship>
 		<relationship name="items">
+			<destination>{a80d05c4-56e3-4ca2-a400-120eb7cc8475}</destination>
+			<destination>{cc161f01-d1e1-4666-be64-e59d93b5dc2a}</destination>
+			<destination>{de6a9b04-0ba9-47df-bb62-4057e3acc037}</destination>
 			<destination>{b8d6bcda-7d3d-4e82-94e8-71e4710ae7c8}</destination>
 			<destination>{e6c12127-f006-42a8-ba1d-1c7b6bae4c3e}</destination>
+			<destination>{afa88554-8491-41bf-a29a-3a386d3d1b55}</destination>
 			<destination>{0998ae7f-9ff0-46b2-a984-178dbd6b74ae}</destination>
 			<destination>{67de5475-80d2-4bee-984b-6659d85dbe0d}</destination>
 			<destination>{adb5efcd-4f91-48be-be3b-29cf911b57b6}</destination>

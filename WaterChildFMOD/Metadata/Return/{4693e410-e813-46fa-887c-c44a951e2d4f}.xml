@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{4693e410-e813-46fa-887c-c44a951e2d4f}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
+		<property name="name">
+			<value>PianoAccomp2_Return</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{ff2267b1-adcb-4076-845e-b25140163d7c}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{4b70eec6-959d-480d-9093-2a74f54c4241}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{550bba4e-0963-4146-99e7-302c7a9ef913}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{ff2267b1-adcb-4076-845e-b25140163d7c}">
+		<relationship name="effects">
+			<destination>{338f69b7-b2a2-46c8-93be-4701c37e66bb}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{4b70eec6-959d-480d-9093-2a74f54c4241}" />
+	<object class="MixerBusFader" id="{338f69b7-b2a2-46c8-93be-4701c37e66bb}" />
+</objects>

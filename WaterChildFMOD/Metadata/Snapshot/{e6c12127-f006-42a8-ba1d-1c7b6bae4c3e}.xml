@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Snapshot" id="{e6c12127-f006-42a8-ba1d-1c7b6bae4c3e}">
 		<property name="name">
-			<value>PianoAccomp_Snapshot</value>
+			<value>PianoAccomp1_Snapshot</value>
 		</property>
 		<relationship name="mixer">
 			<destination>{b211fd7e-c30a-4922-bd4f-5b9569e41b88}</destination>
@@ -28,7 +28,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{116f3318-fdc4-4f27-9613-4fc715194ba8}">
 		<relationship name="modulators">
-			<destination>{bfc4fb7e-a07d-425f-91e0-c25cf32db6a3}</destination>
+			<destination>{cddec7ed-c8b5-4b4c-ba3a-006a84b3b227}</destination>
 		</relationship>
 	</object>
 	<object class="MarkerTrack" id="{3ba4a724-6a1f-4d3b-b4ba-fedf3e90cbd8}" />
@@ -50,36 +50,15 @@
 			<destination>{872189c4-d11e-4a1b-afca-3b7375a7e08d}</destination>
 		</relationship>
 	</object>
-	<object class="ADSRModulator" id="{bfc4fb7e-a07d-425f-91e0-c25cf32db6a3}">
+	<object class="ADSRModulator" id="{cddec7ed-c8b5-4b4c-ba3a-006a84b3b227}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>snapshotIntensity</value>
 		</property>
-		<property name="attackTime">
-			<value>4000</value>
-		</property>
-		<property name="attackShape">
-			<value>0.103384286</value>
-		</property>
 		<property name="peakValue">
-			<value>25</value>
-		</property>
-		<property name="holdTime">
-			<value>4000</value>
-		</property>
-		<property name="decayTime">
-			<value>4000</value>
-		</property>
-		<property name="decayShape">
-			<value>0.447922856</value>
+			<value>100</value>
 		</property>
 		<property name="sustainValue">
 			<value>100</value>
-		</property>
-		<property name="releaseTime">
-			<value>2000</value>
-		</property>
-		<property name="releaseShape">
-			<value>0.598211288</value>
 		</property>
 	</object>
 </objects>
