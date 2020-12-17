@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="ParameterPresetFolder" id="{c2b28845-5101-495f-bf8f-1d25eda18070}">
 		<property name="name">
-			<value>Layer</value>
+			<value>Music Layer</value>
 		</property>
 		<relationship name="folder">
 			<destination>{a7d40efd-ee8e-417d-92ed-84bc04109824}</destination>

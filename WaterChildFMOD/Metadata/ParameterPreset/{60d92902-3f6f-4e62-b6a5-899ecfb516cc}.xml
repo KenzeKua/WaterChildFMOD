@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{60d92902-3f6f-4e62-b6a5-899ecfb516cc}">
+		<property name="name">
+			<value>CityStrings</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6b5ba813-69e8-4644-aa6d-8b56bae6f4c8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{16b27c18-3481-491c-b31f-45a91be0cee3}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{16b27c18-3481-491c-b31f-45a91be0cee3}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Strings Off</value>
+			<value>Strings On</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

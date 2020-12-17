@@ -290,6 +290,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{2818975d-9251-48ac-8e3d-769d8abeaebe}" />
 	<object class="SingleSound" id="{95ecb789-137f-4b73-a152-c1c001256a35}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -323,6 +326,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{33feb660-6a7d-4066-bf1e-11d350419c95}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -356,6 +362,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{7f1f7969-cbd8-48da-8777-0f6031896927}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -394,6 +403,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{43cd8bed-fc9d-4b31-bc58-37f86aea193c}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -404,9 +416,6 @@
 	<object class="EventMixerGroup" id="{d622b823-9c24-4988-9b72-cb28f9cc1fe3}">
 		<property name="color">
 			<value>Red</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Piano Melody</value>
@@ -427,6 +436,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{ce7517e5-f3f6-42f6-b0ef-9514b55c01f7}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -437,9 +449,6 @@
 	<object class="EventMixerGroup" id="{7ba0040f-3e5c-452a-b713-8cd9cf5a4c78}">
 		<property name="color">
 			<value>Red Light 1</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Piano Accomp 1</value>
@@ -455,6 +464,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{e308514b-4d30-4b3a-a38a-e8c678f7bb13}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -470,9 +482,6 @@
 	<object class="EventMixerGroup" id="{ac756fba-e274-44dc-abcb-5b23fbd23243}">
 		<property name="color">
 			<value>Red Light 2</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Piano Accomp 2</value>
@@ -493,6 +502,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{926930c2-61aa-4363-a64f-b1eaad005e49}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -503,9 +515,6 @@
 	<object class="EventMixerGroup" id="{32bbd3be-50c6-4c2f-b53a-e0ae89d39aaa}">
 		<property name="color">
 			<value>Yellow</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Glockenspiel</value>
@@ -526,6 +535,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{0acb992b-f7eb-44c8-a184-219ef3441431}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -536,9 +548,6 @@
 	<object class="EventMixerGroup" id="{c72bfdca-c54f-4a65-abe9-d8f86579c6c1}">
 		<property name="color">
 			<value>Purple Light 2</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Violin</value>
@@ -559,6 +568,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{444a79cf-c909-45f4-a282-c352b1aac8b7}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -569,9 +581,6 @@
 	<object class="EventMixerGroup" id="{9872cba2-4c1d-4c92-bff4-11368245e617}">
 		<property name="color">
 			<value>Purple Light 1</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Viola</value>
@@ -592,6 +601,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{316153ce-70ba-4611-a1b1-33099e9e92cd}">
+		<property name="start">
+			<value>3</value>
+		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
 		</property>
@@ -602,9 +614,6 @@
 	<object class="EventMixerGroup" id="{ced1efe0-2843-4aa7-bb43-b77966299491}">
 		<property name="color">
 			<value>Purple</value>
-		</property>
-		<property name="volume">
-			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Cello</value>
@@ -621,7 +630,7 @@
 	</object>
 	<object class="LoopRegion" id="{1125f9ad-b88b-4857-a66e-945fd331db73}">
 		<property name="position">
-			<value>0</value>
+			<value>3</value>
 		</property>
 		<property name="length">
 			<value>92.969795918367353</value>
@@ -759,7 +768,7 @@
 	<object class="MixerBusFader" id="{693d7631-53d6-4b1f-8d47-1ddbc7ca8f7d}" />
 	<object class="MixerSend" id="{d6375552-db42-4c25-afc6-06e7e6c1c27b}">
 		<property name="level">
-			<value>0</value>
+			<value>5</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>

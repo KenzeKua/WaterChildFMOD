@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{7cbe7a1d-a7df-489f-986e-032a3805fbd1}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
+		<property name="name">
+			<value>CityStrings_Return</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{5b098214-463d-4f83-be3a-d10447c9ae35}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{3063ca74-b61f-4248-baae-266773690fd8}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{550bba4e-0963-4146-99e7-302c7a9ef913}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{5b098214-463d-4f83-be3a-d10447c9ae35}">
+		<relationship name="effects">
+			<destination>{0c5e67f2-d083-4fe4-981b-4eece5e4b7fa}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{3063ca74-b61f-4248-baae-266773690fd8}" />
+	<object class="MixerBusFader" id="{0c5e67f2-d083-4fe4-981b-4eece5e4b7fa}" />
+</objects>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{d2baca32-1f55-4ddc-bb70-e99ca76334a5}">
+		<property name="name">
+			<value>CityViolin</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6b5ba813-69e8-4644-aa6d-8b56bae6f4c8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9a979384-7b42-42d0-b1e5-3f336899bd21}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9a979384-7b42-42d0-b1e5-3f336899bd21}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Violin Off</value>
+			<value>Violin On</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

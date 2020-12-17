@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="SnapshotGroup" id="{2bf2b3ef-26b1-4177-b825-f26d6ecfdd13}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
+		<property name="name">
+			<value>City Layer</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8a7a15af-c499-42c0-9c65-7ae1525a7f97}</destination>
+		</relationship>
+		<relationship name="items">
+			<destination>{d8aaccca-34f2-4136-bc8b-5aa886b09f63}</destination>
+			<destination>{d0a0aa32-88f2-4d0c-bfc3-899c07d5ab1a}</destination>
+			<destination>{b4dd18c6-f3e8-48f1-bab0-6083b4844983}</destination>
+		</relationship>
+	</object>
+</objects>

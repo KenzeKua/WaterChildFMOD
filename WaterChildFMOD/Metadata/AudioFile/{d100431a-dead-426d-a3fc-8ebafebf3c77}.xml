@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{d100431a-dead-426d-a3fc-8ebafebf3c77}">
 		<property name="assetPath">
-			<value>alexkandrell__royal-sparkle-whoosh-left-to-right.wav</value>
+			<value>alexkandrell__royal-sparkle.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
