@@ -309,9 +309,6 @@
 		<property name="color">
 			<value>Green</value>
 		</property>
-		<property name="volume">
-			<value>-4</value>
-		</property>
 		<property name="name">
 			<value>Main Track</value>
 		</property>
@@ -345,9 +342,6 @@
 		<property name="color">
 			<value>Green</value>
 		</property>
-		<property name="volume">
-			<value>-4</value>
-		</property>
 		<property name="name">
 			<value>Track A</value>
 		</property>
@@ -380,9 +374,6 @@
 	<object class="EventMixerGroup" id="{c570a0c7-ed76-432d-b83f-948283bc4594}">
 		<property name="color">
 			<value>Green</value>
-		</property>
-		<property name="volume">
-			<value>-4</value>
 		</property>
 		<property name="name">
 			<value>Track B</value>
@@ -723,7 +714,7 @@
 	<object class="MixerBusFader" id="{badc160b-451a-4d60-b567-689df7f4a7cd}" />
 	<object class="MixerSend" id="{854d092c-b9ae-4508-b33c-e6a7a9440190}">
 		<property name="level">
-			<value>0</value>
+			<value>-10</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -738,7 +729,7 @@
 	<object class="MixerBusFader" id="{767f35a2-9d9d-4cdf-8f9b-0923fe30090e}" />
 	<object class="MixerSend" id="{18f29bab-9f4b-400f-9729-30d30aa890ed}">
 		<property name="level">
-			<value>0</value>
+			<value>-18.5</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -753,7 +744,7 @@
 	<object class="MixerBusFader" id="{b8507033-24bf-4157-a99f-c33b8b886182}" />
 	<object class="MixerSend" id="{6f5195b5-8f06-4052-aae2-c4e6b4863ae9}">
 		<property name="level">
-			<value>0</value>
+			<value>-12</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -768,7 +759,7 @@
 	<object class="MixerBusFader" id="{693d7631-53d6-4b1f-8d47-1ddbc7ca8f7d}" />
 	<object class="MixerSend" id="{d6375552-db42-4c25-afc6-06e7e6c1c27b}">
 		<property name="level">
-			<value>5</value>
+			<value>4</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -783,7 +774,7 @@
 	<object class="MixerBusFader" id="{cfba0ff9-f768-420e-936f-056bf3b50760}" />
 	<object class="MixerSend" id="{e5151ab2-fe95-4d16-8bda-63aa12cc7644}">
 		<property name="level">
-			<value>0</value>
+			<value>4</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -798,7 +789,7 @@
 	<object class="MixerBusFader" id="{50dd1a22-44d0-4f5b-b64f-3a4fe1c1db88}" />
 	<object class="MixerSend" id="{97933a29-3c76-4ee6-bc4f-3355e1e9b453}">
 		<property name="level">
-			<value>0</value>
+			<value>-8.5</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -813,7 +804,7 @@
 	<object class="MixerBusFader" id="{67f9644a-efb5-4fbc-855d-94fd9abf730a}" />
 	<object class="MixerSend" id="{0e09052f-a3c1-44ea-9432-33aa81313688}">
 		<property name="level">
-			<value>0</value>
+			<value>1.5</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -828,7 +819,7 @@
 	<object class="MixerBusFader" id="{4c180c46-97b9-415a-b06e-8bb648c4af2c}" />
 	<object class="MixerSend" id="{26ad9f1f-c4b8-4c97-b5c6-33c7c4e2cd20}">
 		<property name="level">
-			<value>0</value>
+			<value>4</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
@@ -843,7 +834,7 @@
 	<object class="MixerBusFader" id="{7ad7a794-67e6-4909-82e1-930d755b11e9}" />
 	<object class="MixerSend" id="{5411886f-bd2a-4c49-9e7e-964423ee64ef}">
 		<property name="level">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
