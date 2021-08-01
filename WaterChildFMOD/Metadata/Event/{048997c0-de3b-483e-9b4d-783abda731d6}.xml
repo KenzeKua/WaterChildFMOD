@@ -129,7 +129,7 @@
 			<value>5.3517291666666669</value>
 		</property>
 		<property name="length">
-			<value>2.0003541666666669</value>
+			<value>0.94827083333333384</value>
 		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{dcc17c72-0853-43ea-9463-67fd647c3ac4}</destination>
@@ -139,6 +139,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7ddd17d3-36fe-492b-b9e5-83560c15a8f5}">
+		<property name="volume">
+			<value>-8</value>
+		</property>
 		<property name="name">
 			<value>Gate</value>
 		</property>
@@ -182,10 +185,10 @@
 	</object>
 	<object class="TransitionRegion" id="{f9f32c29-c63d-4bb3-a95d-82ffe1e9e615}">
 		<property name="position">
-			<value>2.0003333333333333</value>
+			<value>0</value>
 		</property>
 		<property name="length">
-			<value>3.3513958333333336</value>
+			<value>5.3517291666666615</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{98f37a83-8066-4c41-b03f-412e37b97ac8}</destination>
@@ -262,18 +265,18 @@
 	</object>
 	<object class="AutomationPoint" id="{8735b4f8-5e1f-4b7b-8619-196c1007f926}">
 		<property name="position">
-			<value>5.4000000000000004</value>
+			<value>5.5</value>
 		</property>
 		<property name="value">
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>0.0969447568</value>
+			<value>0.0381960236</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{63bdf326-c014-48e9-9664-4af0dad4e099}">
 		<property name="position">
-			<value>7.3520833333333337</value>
+			<value>6.3000000000000007</value>
 		</property>
 		<property name="value">
 			<value>0</value>

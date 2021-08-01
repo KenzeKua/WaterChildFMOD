@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{a6407b83-4ef2-4a01-9ff7-99cd38d9852d}">
+		<property name="name">
+			<value>PlayChimes</value>
+		</property>
+		<relationship name="folder">
+			<destination>{eddae1fe-779d-485d-9049-349263711df1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{59268a75-b215-4dc9-910d-8a683921d8df}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{59268a75-b215-4dc9-910d-8a683921d8df}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+	</object>
+</objects>
