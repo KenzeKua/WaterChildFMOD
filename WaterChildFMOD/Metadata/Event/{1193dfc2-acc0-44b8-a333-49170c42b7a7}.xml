@@ -327,6 +327,9 @@
 		<property name="initialValue">
 			<value>-80</value>
 		</property>
+		<property name="releaseTime">
+			<value>1500</value>
+		</property>
 		<property name="finalValue">
 			<value>-80</value>
 		</property>
@@ -338,6 +341,9 @@
 		<property name="initialValue">
 			<value>-80</value>
 		</property>
+		<property name="releaseTime">
+			<value>1500</value>
+		</property>
 		<property name="finalValue">
 			<value>-80</value>
 		</property>
@@ -348,6 +354,9 @@
 		</property>
 		<property name="initialValue">
 			<value>-80</value>
+		</property>
+		<property name="releaseTime">
+			<value>1500</value>
 		</property>
 		<property name="finalValue">
 			<value>-80</value>
